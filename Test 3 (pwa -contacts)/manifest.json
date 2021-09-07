@@ -1,0 +1,39 @@
+{
+    "name": "contact list App",
+    "short_name": "Contacts App",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#4db6ac",
+    "theme_color": "#00695c",
+    "icons": [
+        {
+            "src": "img/icons/icon-72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+
+        {
+            "src": "img/icons/icon-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+
+        {
+            "src": "img/icons/icon-128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+
+        {
+            "src": "img/icons/icon-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+
+        {
+            "src": "img/icons/icon-512.png",
+            "type": "image/png",
+            "sizes": "500x500"
+        }
+    ]
+}
